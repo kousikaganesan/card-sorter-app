@@ -1,2 +1,3 @@
-# Card_sorter_UI
-Card Sorter is an Angular 4 application
+# Card sorter application
+
+Card Sorter app is used to priotize tasks of the user by dragging and dropping in the todo list
